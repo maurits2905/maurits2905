@@ -23,34 +23,25 @@
 
 ## <samp>SAP consultant by day · AI/tool builder by curiosity</samp>
 
-</div>
-
 <table>
 <tr>
-<td width="62%" valign="middle">
+<td align="center" width="100%">
 
 ### Building practical tools for complex workflows
 
-I build practical tools around **SAP**, enterprise workflows and developer productivity.
+I build around **SAP**, enterprise workflows and developer productivity.  
+Most of my projects start from real friction: finding the right transaction, comparing code exports, merging files, tracking routines, or making technical work easier to understand.
 
-Most of my projects start from real workflow friction: finding the right SAP transaction, comparing code exports, merging Excel files, tracking routines, or making technical work easier to understand.
-
-</td>
-<td width="38%" valign="middle" align="center">
+<br/>
 
 <img src="https://img.shields.io/badge/MAURITS%20PUGGAARD-020617?style=for-the-badge&label=NAME&labelColor=38BDF8" />
-<br/>
 <img src="https://img.shields.io/badge/SAP%20TECHNICAL%20CONSULTANT-020617?style=for-the-badge&label=ROLE&labelColor=7C3AED" />
-<br/>
 <img src="https://img.shields.io/badge/SOA%20PEOPLE%20NORDIC-020617?style=for-the-badge&label=COMPANY&labelColor=0EA5E9" />
-<br/>
 <img src="https://img.shields.io/badge/SAP%20%C2%B7%20AI%20%C2%B7%20INTEGRATIONS%20%C2%B7%20TOOLS-020617?style=for-the-badge&label=FOCUS&labelColor=1E3A8A" />
 
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:7C3AED,100:38BDF8" />
 
@@ -190,6 +181,77 @@ AI-assisted review, SAP navigation, search, validation and user experience.
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:38BDF8,100:7C3AED" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <samp>achievement log</samp>
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/01-Generative%20AI-38BDF8?style=for-the-badge&labelColor=020617" />
+
+### SAP AI certified
+
+Certified in SAP Generative AI development with focus on AI workflows, SAP AI services and prompt engineering.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/02-Core%20ABAP-7C3AED?style=for-the-badge&labelColor=020617" />
+
+### ABAP certified
+
+Certified SAP back-end developer with ABAP, development objects and modern SAP programming fundamentals.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/03-SAP%20Navigator-0EA5E9?style=for-the-badge&labelColor=020617" />
+
+### Product builder
+
+Built a local-first SAP helper for transactions, tables, troubleshooting flows and faster SAP navigation.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/04-AI%20Review-38BDF8?style=for-the-badge&labelColor=020617" />
+
+### Code inspection
+
+Created structured AI-assisted review workflows for SAP code inspection, security checks and quality control.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/05-Integrations-7C3AED?style=for-the-badge&labelColor=020617" />
+
+### Enterprise flows
+
+Worked with CPI, OData, SuccessFactors, ServiceNow and enterprise integration scenarios.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/06-Developer%20Tools-0EA5E9?style=for-the-badge&labelColor=020617" />
+
+### Utility mindset
+
+Built practical utilities for code comparison, Excel merging, time calculation and workflow support.
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:7C3AED,100:38BDF8" />
 
 </div>
 
