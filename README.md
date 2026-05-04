@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,65:1E3A8A,100:7C3AED&text=Maurits%20Puggaard&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=SAP%20Consultant%20%C2%B7%20AI%20Builder%20%C2%B7%20Developer%20Tools&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F172A,65:1E3A8A,100:7C3AED&text=Maurits%20Puggaard&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=SAP%20Consultant%20%C2%B7%20AI%20Builder%20%C2%B7%20Developer%20Tools&descAlignY=58&descSize=18" />
 
 <br/>
 
@@ -32,45 +32,25 @@
 
 </div>
 
+<table>
+<tr>
+<td width="52%">
+
+I build practical tools around **SAP**, enterprise workflows and developer productivity.
+
+Most of my projects start from a real annoyance: finding the right SAP transaction, comparing code exports, merging Excel files, tracking daily routines, or making technical workflows easier to understand.
+
+</td>
+<td width="48%">
+
 ```txt
 Name        : Maurits Puggaard
 Role        : SAP Technical Consultant
 Company     : SOA People Nordic
 Location    : Denmark
-Focus       : SAP development, integrations, AI workflows and practical tools
-Build style : Local-first, lightweight, useful before flashy
+Focus       : SAP · AI · Integrations · Tools
+Build style : Local-first · lightweight · useful
 ```
-
-I build practical tools around SAP, enterprise workflows and developer productivity.
-
-Most of my projects start from a real annoyance: finding the right SAP transaction, comparing code exports, merging Excel files, tracking daily routines, or making technical workflows easier to understand.
-
----
-
-## /* current signal */
-
-<table>
-<tr>
-<td width="50%">
-
-### What I build
-
-- SAP tools that reduce friction
-- Static web apps with practical value
-- OData, CPI and integration utilities
-- AI-assisted review workflows
-- Developer tools for comparing, searching and validating data
-
-</td>
-<td width="50%">
-
-### What I care about
-
-- Clean user experience
-- Simple architecture
-- No unnecessary backend
-- Fast iteration
-- Tools that solve actual work problems
 
 </td>
 </tr>
@@ -78,7 +58,37 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 
 ---
 
-## /* tech stack */
+## /* current signal */
+
+<table>
+<tr>
+<td width="33%">
+
+### Build
+
+SAP tools, static web apps, developer utilities and small products that remove real workflow friction.
+
+</td>
+<td width="33%">
+
+### Integrate
+
+OData, CPI, SuccessFactors, ServiceNow, SAP BTP and enterprise process automation.
+
+</td>
+<td width="33%">
+
+### Improve
+
+AI-assisted workflows, code review, SAP navigation, search, validation and user experience.
+
+</td>
+</tr>
+</table>
+
+---
+
+## /* stack matrix */
 
 <div align="center">
 
@@ -98,19 +108,24 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 
 <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/SAP%20ERP-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
+<img src="https://img.shields.io/badge/SAP%20BTP-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/SAP%20Fiori-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/SAP%20UI5-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
-<img src="https://img.shields.io/badge/SAP%20BTP-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
-<img src="https://img.shields.io/badge/SAP%20MM-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
-<img src="https://img.shields.io/badge/SAP%20SD-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/CPI%20%2F%20Integration%20Suite-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/OData-111827?style=for-the-badge&logo=sap&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SAP%20MM-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
+<img src="https://img.shields.io/badge/SAP%20SD-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 
 <br/><br/>
 
-### Frameworks & Machine Learning
+### Web, Data & AI
 
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243" />
 <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
 <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
@@ -118,36 +133,16 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 
 <br/><br/>
 
-### Data & Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243" />
-
-<br/><br/>
-
-### DevOps & Infrastructure
+### Tools & Platforms
 
 <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-### Development Tools
-
 <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/IntelliJ-111827?style=for-the-badge&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626" />
 <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-
-<br/><br/>
-
-### AI & Platforms
-
 <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" />
 <img src="https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" />
 <img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
@@ -162,7 +157,6 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 <div align="center">
 
 <img src="https://img.shields.io/badge/SAP%20Certified-Generative%20AI%20Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=020617" />
-<br/><br/>
 <img src="https://img.shields.io/badge/SAP%20Certified-Back--End%20Developer%20%2F%20Core%20ABAP%20Skills-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=020617" />
 
 </div>
@@ -181,51 +175,29 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 
 <br/><br/>
 
-<table>
-<tr>
-<td width="33%" align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurits2905&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maurits2905&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maurits2905&theme=tokyonight" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurits2905&theme=tokyonight" />
-
-</td>
-<td width="33%" align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maurits2905&theme=tokyonight" />
-
-</td>
-<td width="33%" align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maurits2905&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <img width="98%" src="https://streak-stats.demolab.com?user=maurits2905&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideNums=93C5FD&currStreakNum=C084FC&sideLabels=93C5FD&dates=67E8F9" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=maurits2905&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=38BDF8&point=7C3AED&area=true&area_color=1E3A8A&custom_title=Maurits%20Puggaard%20%2F%20Contribution%20Signal" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=maurits2905&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=38BDF8&point=7C3AED&area=true&area_color=1E3A8A&custom_title=Contribution%20Signal" />
 
 <br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:38BDF8,100:7C3AED" />
-
-</div>
-
----
-
-## /* contribution stream */
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
   <img width="98%" alt="github contribution snake" src="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:38BDF8,100:7C3AED" />
 
 </div>
 
@@ -244,7 +216,7 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 I like building things that make complex work feel simpler.  
 Especially when the problem sits somewhere between enterprise systems, automation and user experience.
 
-<br/>
+<br/><br/>
 
 <a href="https://sapnav.dk">
   <img src="https://img.shields.io/badge/SAP%20Navigator-sapnav.dk-38BDF8?style=for-the-badge&logo=sap&logoColor=white&labelColor=020617" />
