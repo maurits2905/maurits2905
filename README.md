@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F172A,65:1E3A8A,100:7C3AED&text=Maurits%20Puggaard&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=SAP%20Consultant%20%C2%B7%20AI%20Builder%20%C2%B7%20Developer%20Tools&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,65:1E3A8A,100:7C3AED&text=Maurits%20Puggaard&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=SAP%20Consultant%20%C2%B7%20AI%20Builder%20%C2%B7%20Developer%20Tools&descAlignY=58&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Building+tools+for+complex+SAP+workflows;%3E+ABAP+%7C+SAP+BTP+%7C+Fiori+%7C+CPI+%7C+OData;%3E+AI-assisted+development+and+enterprise+automation;%3E+Simple+architecture.+Useful+interfaces.+Real+problems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=920&lines=%3E+Building+tools+for+complex+SAP+workflows;%3E+ABAP+%7C+SAP+BTP+%7C+Fiori+%7C+CPI+%7C+OData;%3E+AI-assisted+development+and+enterprise+automation;%3E+Simple+architecture.+Useful+interfaces.+Real+problems." />
 
 <br/><br/>
 
@@ -47,30 +47,30 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 
 ---
 
-## /* current focus */
+## /* current signal */
 
 <table>
 <tr>
 <td width="50%">
 
-### Building
+### What I build
 
-- SAP Navigator
-- SAP search and troubleshooting flows
-- Static web apps with no unnecessary backend
-- Code comparison and validation utilities
+- SAP tools that reduce friction
+- Static web apps with practical value
+- OData, CPI and integration utilities
 - AI-assisted review workflows
+- Developer tools for comparing, searching and validating data
 
 </td>
 <td width="50%">
 
-### Exploring
+### What I care about
 
-- Enterprise AI assistants
-- SAP security/code inspection
-- Better SAP UX patterns
-- Simulation and visual systems
-- Local-first product ideas
+- Clean user experience
+- Simple architecture
+- No unnecessary backend
+- Fast iteration
+- Tools that solve actual work problems
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 
 <div align="center">
 
-### SAP Navigator
+<h3>SAP Navigator</h3>
 
 <a href="https://sapnav.dk">
   <img src="https://img.shields.io/badge/Open%20Live%20Site-38BDF8?style=for-the-badge&logo=sap&logoColor=white&labelColor=020617" />
@@ -136,7 +136,7 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 <img src="https://img.shields.io/badge/SAP%20MM-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/SAP%20SD-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/CPI%20%2F%20Integration%20Suite-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
-<img src="https://img.shields.io/badge/OData-111827?style=for-the-badge&logo=odata&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/OData-111827?style=for-the-badge&logo=sap&logoColor=38BDF8" />
 
 <br/><br/>
 
@@ -288,20 +288,25 @@ A simple calculator for internal and billable work time.
 
 ---
 
-## /* github telemetry */
+## /* system dashboard */
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maurits2905&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=7C3AED" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurits2905&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurits2905&theme=tokyonight" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=maurits2905&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurits2905&theme=tokyonight" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maurits2905&theme=tokyonight" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maurits2905&theme=tokyonight" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maurits2905&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=38BDF8&point=7C3AED" />
+<img width="96%" src="https://streak-stats.demolab.com?user=maurits2905&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideNums=93C5FD&currStreakNum=C084FC&sideLabels=93C5FD&dates=67E8F9" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=maurits2905&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=38BDF8&point=7C3AED&area=true&area_color=1E3A8A" />
 
 </div>
 
@@ -314,7 +319,7 @@ A simple calculator for internal and billable work time.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
+  <img width="96%" alt="github contribution snake" src="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -341,6 +346,51 @@ A simple calculator for internal and billable work time.
 
 ---
 
+## /* build philosophy */
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### `local-first`
+
+Useful tools should work fast, stay simple and not depend on unnecessary infrastructure.
+
+</td>
+<td align="center" width="33%">
+
+### `workflow-first`
+
+The best interface is the one that fits the real task, not the one that looks impressive in isolation.
+
+</td>
+<td align="center" width="33%">
+
+### `AI-assisted`
+
+AI should reduce friction, improve quality and help people move faster without hiding the underlying logic.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## /* currently loading */
+
+```txt
+[████████████████████░░░░] SAP Navigator
+[███████████████░░░░░░░░░] AI-assisted SAP workflows
+[████████████░░░░░░░░░░░░] Developer utilities
+[██████████░░░░░░░░░░░░░░] Simulation and visual systems
+```
+
+---
+
 ## /* contact */
 
 <div align="center">
@@ -361,6 +411,6 @@ Open to practical conversations around SAP, AI, integrations, automation and dev
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:1E3A8A,100:020617" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:1E3A8A,100:020617" />
 
 </div>
