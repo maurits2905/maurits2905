@@ -21,29 +21,32 @@
 
 <div align="center">
 
-### `SAP consultant by day · AI/tool builder by curiosity`
+### <samp>SAP consultant by day · AI/tool builder by curiosity</samp>
 
 </div>
 
 <table>
 <tr>
-<td width="52%">
+<td width="58%">
 
 I build practical tools around **SAP**, enterprise workflows and developer productivity.
 
 Most of my projects start from real workflow friction: finding the right SAP transaction, comparing code exports, merging Excel files, tracking routines, or making technical work easier to understand.
 
 </td>
-<td width="48%">
+<td width="42%">
 
-```txt
-Name        : Maurits Puggaard
-Role        : SAP Technical Consultant
-Company     : SOA People Nordic
-Location    : Denmark
-Focus       : SAP · AI · Integrations · Tools
-Build style : Local-first · lightweight · useful
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Name-Maurits%20Puggaard-111827?style=for-the-badge&labelColor=020617" />
+<br/>
+<img src="https://img.shields.io/badge/Role-SAP%20Technical%20Consultant-38BDF8?style=for-the-badge&labelColor=020617" />
+<br/>
+<img src="https://img.shields.io/badge/Company-SOA%20People%20Nordic-7C3AED?style=for-the-badge&labelColor=020617" />
+<br/>
+<img src="https://img.shields.io/badge/Focus-SAP%20%C2%B7%20AI%20%C2%B7%20Integrations%20%C2%B7%20Tools-0EA5E9?style=for-the-badge&labelColor=020617" />
+
+</div>
 
 </td>
 </tr>
@@ -51,41 +54,53 @@ Build style : Local-first · lightweight · useful
 
 ---
 
-### `current signal`
+<div align="center">
+
+### <samp>current signal</samp>
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-#### Build
+<img src="https://img.shields.io/badge/BUILD-38BDF8?style=for-the-badge&labelColor=020617" />
 
-SAP tools, static web apps, developer utilities and small products that remove real workflow friction.
+<br/><br/>
+
+SAP tools, static web apps and developer utilities that remove real workflow friction.
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-#### Integrate
+<img src="https://img.shields.io/badge/INTEGRATE-7C3AED?style=for-the-badge&labelColor=020617" />
+
+<br/><br/>
 
 OData, CPI, SuccessFactors, ServiceNow, SAP BTP and enterprise process automation.
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-#### Improve
+<img src="https://img.shields.io/badge/IMPROVE-0EA5E9?style=for-the-badge&labelColor=020617" />
 
-AI-assisted workflows, code review, SAP navigation, search, validation and better user experience.
+<br/><br/>
+
+AI-assisted workflows, SAP navigation, search, validation and better user experience.
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-### `stack matrix`
+---
 
 <div align="center">
 
-#### Languages
+### <samp>stack matrix</samp>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,50:7C3AED,100:38BDF8" />
+
+#### <samp>Languages</samp>
 
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -95,7 +110,7 @@ AI-assisted workflows, code review, SAP navigation, search, validation and bette
 <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css&logoColor=663399" />
 
-#### SAP & Enterprise
+#### <samp>SAP & Enterprise</samp>
 
 <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/SAP%20ERP-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
@@ -107,7 +122,7 @@ AI-assisted workflows, code review, SAP navigation, search, validation and bette
 <img src="https://img.shields.io/badge/SAP%20MM-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 <img src="https://img.shields.io/badge/SAP%20SD-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
 
-#### Web, Data & AI
+#### <samp>Web, Data & AI</samp>
 
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
@@ -120,7 +135,7 @@ AI-assisted workflows, code review, SAP navigation, search, validation and bette
 <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
 <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
 
-#### Tools & Platforms
+#### <samp>Tools & Platforms</samp>
 
 <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
@@ -135,13 +150,15 @@ AI-assisted workflows, code review, SAP navigation, search, validation and bette
 <img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
 <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:38BDF8,100:7C3AED" />
+
 </div>
 
 ---
 
-### `certifications`
-
 <div align="center">
+
+### <samp>certifications</samp>
 
 <img src="https://img.shields.io/badge/SAP%20Certified-Generative%20AI%20Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=020617" />
 <img src="https://img.shields.io/badge/SAP%20Certified-Back--End%20Developer%20%2F%20Core%20ABAP%20Skills-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=020617" />
@@ -150,19 +167,17 @@ AI-assisted workflows, code review, SAP navigation, search, validation and bette
 
 ---
 
-### `github signal`
-
 <div align="center">
+
+### <samp>github signal</samp>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:7C3AED,100:38BDF8" />
 
-<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurits2905&theme=tokyonight" />
+<img width="97%" src="https://streak-stats.demolab.com?user=maurits2905&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideNums=93C5FD&currStreakNum=C084FC&sideLabels=93C5FD&dates=67E8F9" />
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurits2905&theme=tokyonight" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maurits2905&theme=tokyonight" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maurits2905&theme=tokyonight" />
-
-<img width="97%" src="https://streak-stats.demolab.com?user=maurits2905&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideNums=93C5FD&currStreakNum=C084FC&sideLabels=93C5FD&dates=67E8F9" />
 
 <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=maurits2905&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=38BDF8&point=7C3AED&area=true&area_color=1E3A8A&custom_title=Contribution%20Signal" />
 
@@ -178,9 +193,9 @@ AI-assisted workflows, code review, SAP navigation, search, validation and bette
 
 ---
 
-### `connect`
-
 <div align="center">
+
+### <samp>connect</samp>
 
 **SAP, AI, integrations and developer tools**
 
