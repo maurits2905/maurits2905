@@ -78,38 +78,6 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 
 ---
 
-## /* featured system */
-
-<div align="center">
-
-<h3>SAP Navigator</h3>
-
-<a href="https://sapnav.dk">
-  <img src="https://img.shields.io/badge/Open%20Live%20Site-38BDF8?style=for-the-badge&logo=sap&logoColor=white&labelColor=020617" />
-</a>
-<a href="https://github.com/maurits2905/sap-navigator">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-**SAP Navigator** is a lightweight SAP helper site for finding transactions, decoding issues, following troubleshooting flows and looking up useful SAP tables.
-
-> The goal is simple: describe what you need, get useful SAP direction fast.
-
-| Module | Purpose |
-|---|---|
-| Find | Search for SAP transactions from a task, object or process |
-| Decode | Map symptoms and errors to likely next steps |
-| Flows | Follow common SAP troubleshooting paths |
-| Tables | Look up SAP standard tables and key fields |
-| Favorites | Save useful references locally |
-| Architecture | Static site, local JSON, GitHub Pages, no backend, no database, no runtime AI cost |
-
----
-
 ## /* tech stack */
 
 <div align="center">
@@ -189,93 +157,6 @@ Most of my projects start from a real annoyance: finding the right SAP transacti
 
 ---
 
-## /* project console */
-
-<table>
-<tr>
-<td width="50%">
-
-### `sap-navigator`
-
-SAP transaction search, table lookup, troubleshooting flows and error decoding.
-
-**Stack:** `JavaScript` `HTML` `CSS` `GitHub Pages`  
-**Theme:** SAP productivity, local-first search, static architecture
-
-<a href="https://github.com/maurits2905/sap-navigator">Repository</a> · <a href="https://sapnav.dk">Live site</a>
-
-</td>
-<td width="50%">
-
-### `AntLab`
-
-A browser-based ant simulation with pheromone trails, visual modes and interactive simulation controls.
-
-**Stack:** `TypeScript`  
-**Theme:** Simulation, emergent behavior, visual systems
-
-<a href="https://github.com/maurits2905/AntLab">Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### `DailyHub`
-
-A daily puzzle dashboard for tracking Wordle, NYT Games, LinkedIn Games and other daily challenges.
-
-**Stack:** `JavaScript`  
-**Theme:** Daily routines, streaks, tracking
-
-<a href="https://github.com/maurits2905/DailyHub">Repository</a>
-
-</td>
-<td width="50%">
-
-### `Compare_code_program`
-
-Upload old and new exports, map columns, filter by author/object and compare by key.
-
-**Stack:** `HTML`  
-**Theme:** Code comparison, validation, practical developer utility
-
-<a href="https://github.com/maurits2905/Compare_code_program">Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### `EXCEL_MERGE`
-
-Merge multiple Excel files into one workbook while preserving sheets as tabs.
-
-**Stack:** `HTML`  
-**Theme:** Office automation, file handling
-
-<a href="https://github.com/maurits2905/EXCEL_MERGE">Repository</a>
-
-</td>
-<td width="50%">
-
-### `WORK_TIME_CALCULATOR`
-
-A simple calculator for internal and billable work time.
-
-**Stack:** `HTML`  
-**Theme:** Time tracking, work utilities
-
-<a href="https://github.com/maurits2905/WORK_TIME_CALCULATOR">Repository</a>
-
-</td>
-</tr>
-</table>
-
----
-
 ## /* certifications */
 
 <div align="center">
@@ -288,116 +169,82 @@ A simple calculator for internal and billable work time.
 
 ---
 
-## /* system dashboard */
+## /* github control room */
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurits2905&theme=tokyonight" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,50:7C3AED,100:38BDF8" />
 
 <br/><br/>
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurits2905&theme=tokyonight" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maurits2905&theme=tokyonight" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maurits2905&theme=tokyonight" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurits2905&theme=tokyonight" />
 
 <br/><br/>
 
-<img width="96%" src="https://streak-stats.demolab.com?user=maurits2905&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideNums=93C5FD&currStreakNum=C084FC&sideLabels=93C5FD&dates=67E8F9" />
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurits2905&theme=tokyonight" />
+
+</td>
+<td width="33%" align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maurits2905&theme=tokyonight" />
+
+</td>
+<td width="33%" align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maurits2905&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=maurits2905&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideNums=93C5FD&currStreakNum=C084FC&sideLabels=93C5FD&dates=67E8F9" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=maurits2905&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=38BDF8&point=7C3AED&area=true&area_color=1E3A8A" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=maurits2905&theme=tokyo-night&hide_border=true&bg_color=020617&color=CBD5E1&line=38BDF8&point=7C3AED&area=true&area_color=1E3A8A&custom_title=Maurits%20Puggaard%20%2F%20Contribution%20Signal" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:38BDF8,100:7C3AED" />
 
 </div>
 
 ---
 
-## /* contribution snake */
+## /* contribution stream */
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
-  <img width="96%" alt="github contribution snake" src="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
+  <img width="98%" alt="github contribution snake" src="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## /* operating principles */
-
-<table>
-<tr>
-<td>
-
-```txt
-01. Start with the real workflow.
-02. Find the friction.
-03. Remove the unnecessary parts.
-04. Make the tool fast enough to become a habit.
-05. Keep the architecture simple enough to maintain.
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## /* build philosophy */
+## /* connect */
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center">
 
-### `local-first`
+### SAP, AI, integrations and developer tools
 
-Useful tools should work fast, stay simple and not depend on unnecessary infrastructure.
+I like building things that make complex work feel simpler.  
+Especially when the problem sits somewhere between enterprise systems, automation and user experience.
 
-</td>
-<td align="center" width="33%">
-
-### `workflow-first`
-
-The best interface is the one that fits the real task, not the one that looks impressive in isolation.
-
-</td>
-<td align="center" width="33%">
-
-### `AI-assisted`
-
-AI should reduce friction, improve quality and help people move faster without hiding the underlying logic.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## /* currently loading */
-
-```txt
-[████████████████████░░░░] SAP Navigator
-[███████████████░░░░░░░░░] AI-assisted SAP workflows
-[████████████░░░░░░░░░░░░] Developer utilities
-[██████████░░░░░░░░░░░░░░] Simulation and visual systems
-```
-
----
-
-## /* contact */
-
-<div align="center">
-
-Open to practical conversations around SAP, AI, integrations, automation and developer tools.
-
-<br/><br/>
+<br/>
 
 <a href="https://sapnav.dk">
   <img src="https://img.shields.io/badge/SAP%20Navigator-sapnav.dk-38BDF8?style=for-the-badge&logo=sap&logoColor=white&labelColor=020617" />
@@ -409,7 +256,11 @@ Open to practical conversations around SAP, AI, integrations, automation and dev
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
 </a>
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:1E3A8A,100:020617" />
 
