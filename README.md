@@ -32,13 +32,6 @@
 I build around **SAP**, enterprise workflows and developer productivity.  
 Most of my projects start from real friction: finding the right transaction, comparing code exports, merging files, tracking routines, or making technical work easier to understand.
 
-<br/>
-
-<img src="https://img.shields.io/badge/MAURITS%20PUGGAARD-020617?style=for-the-badge&label=NAME&labelColor=38BDF8" />
-<img src="https://img.shields.io/badge/SAP%20TECHNICAL%20CONSULTANT-020617?style=for-the-badge&label=ROLE&labelColor=7C3AED" />
-<img src="https://img.shields.io/badge/SOA%20PEOPLE%20NORDIC-020617?style=for-the-badge&label=COMPANY&labelColor=0EA5E9" />
-<img src="https://img.shields.io/badge/SAP%20%C2%B7%20AI%20%C2%B7%20INTEGRATIONS%20%C2%B7%20TOOLS-020617?style=for-the-badge&label=FOCUS&labelColor=1E3A8A" />
-
 </td>
 </tr>
 </table>
@@ -194,27 +187,42 @@ AI-assisted review, SAP navigation, search, validation and user experience.
 <tr>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/01-Generative%20AI-38BDF8?style=for-the-badge&labelColor=020617" />
+<img width="88" src="https://img.shields.io/badge/AI-38BDF8?style=for-the-badge&labelColor=020617" />
 
-### SAP AI certified
+### 🧠 SAP AI Certified
 
-Certified in SAP Generative AI development with focus on AI workflows, SAP AI services and prompt engineering.
+<img src="https://img.shields.io/badge/status-earned-38BDF8?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/focus-generative%20AI-7C3AED?style=flat-square&labelColor=020617" />
 
-</td>
-<td align="center" width="33%" valign="top">
+<br/><br/>
 
-<img src="https://img.shields.io/badge/02-Core%20ABAP-7C3AED?style=for-the-badge&labelColor=020617" />
-
-### ABAP certified
-
-Certified SAP back-end developer with ABAP, development objects and modern SAP programming fundamentals.
+SAP Generative AI Developer certification with focus on AI workflows, SAP AI services and prompt engineering.
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/03-SAP%20Navigator-0EA5E9?style=for-the-badge&labelColor=020617" />
+<img width="88" src="https://img.shields.io/badge/ABAP-7C3AED?style=for-the-badge&labelColor=020617" />
 
-### Product builder
+### ⚙️ Core ABAP Certified
+
+<img src="https://img.shields.io/badge/status-earned-7C3AED?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/focus-backend-38BDF8?style=flat-square&labelColor=020617" />
+
+<br/><br/>
+
+SAP back-end developer certification covering ABAP, development objects and modern SAP programming fundamentals.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<img width="88" src="https://img.shields.io/badge/NAV-0EA5E9?style=for-the-badge&labelColor=020617" />
+
+### 🧭 SAP Navigator
+
+<img src="https://img.shields.io/badge/status-live-0EA5E9?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/type-product-7C3AED?style=flat-square&labelColor=020617" />
+
+<br/><br/>
 
 Built a local-first SAP helper for transactions, tables, troubleshooting flows and faster SAP navigation.
 
@@ -223,29 +231,44 @@ Built a local-first SAP helper for transactions, tables, troubleshooting flows a
 <tr>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/04-AI%20Review-38BDF8?style=for-the-badge&labelColor=020617" />
+<img width="88" src="https://img.shields.io/badge/REVIEW-38BDF8?style=for-the-badge&labelColor=020617" />
 
-### Code inspection
+### 🔎 AI Code Inspection
+
+<img src="https://img.shields.io/badge/status-built-38BDF8?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/focus-security-0EA5E9?style=flat-square&labelColor=020617" />
+
+<br/><br/>
 
 Created structured AI-assisted review workflows for SAP code inspection, security checks and quality control.
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/05-Integrations-7C3AED?style=for-the-badge&labelColor=020617" />
+<img width="88" src="https://img.shields.io/badge/CPI-7C3AED?style=for-the-badge&labelColor=020617" />
 
-### Enterprise flows
+### 🔗 Integration Work
+
+<img src="https://img.shields.io/badge/status-projects-7C3AED?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/focus-enterprise%20flows-38BDF8?style=flat-square&labelColor=020617" />
+
+<br/><br/>
 
 Worked with CPI, OData, SuccessFactors, ServiceNow and enterprise integration scenarios.
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/06-Developer%20Tools-0EA5E9?style=for-the-badge&labelColor=020617" />
+<img width="88" src="https://img.shields.io/badge/TOOLS-0EA5E9?style=for-the-badge&labelColor=020617" />
 
-### Utility mindset
+### 🛠️ Developer Utilities
 
-Built practical utilities for code comparison, Excel merging, time calculation and workflow support.
+<img src="https://img.shields.io/badge/status-shipped-0EA5E9?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/focus-productivity-7C3AED?style=flat-square&labelColor=020617" />
+
+<br/><br/>
+
+Built utilities for code comparison, Excel merging, time calculation and workflow support.
 
 </td>
 </tr>
