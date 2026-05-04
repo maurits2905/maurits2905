@@ -307,6 +307,20 @@ A simple calculator for internal and billable work time.
 
 ---
 
+## /* contribution snake */
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/maurits2905/maurits2905/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## /* operating principles */
 
 <table>
